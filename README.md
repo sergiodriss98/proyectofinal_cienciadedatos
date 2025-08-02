@@ -1,4 +1,4 @@
-# Proyecto Gestión de Pacientes e Imágenes Médicas
+# Proyecto Gestión de Pacientes Covid-19
 
 ## Descripción
 
