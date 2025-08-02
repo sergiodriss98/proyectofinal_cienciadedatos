@@ -58,4 +58,4 @@ proyecto_imagenes/
   deactivate
 ```
 
-Good Luck Guys! V.Z.
+Good Luck Guys! 
